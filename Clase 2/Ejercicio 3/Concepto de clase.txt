@@ -1,0 +1,11 @@
+
+
+Concepto de clase: El manejo de una instancia, cuya instancia tiene atributos y métodos
+Atributos como caracteristicas de la clase
+Metodos son las acciones que puede hacer esa clase, metodo es una funcion asociada a esa clase
+Principio de funcion----------> Solamente debe hacer una cosa
+
+
+//*********************************Concepto de atributo publico y privado******************************/
+Cuando hay un "+" significa que el atributo o metodo es publico
+Cuando hay un "-" significa que solo esa clase puede usar ese atributo o metodo
